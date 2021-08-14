@@ -7,7 +7,7 @@
 "Edit":"data1",
 "ReviewIncident":"data1",
 "BuildTeam":"data1",
-"RootCauseAnalysis":"data1"
+"RootCauseAnalysis":"data1",
 "Investigation":"data1",
 "Approval":"data1",
 "CostAnalysis":"data1",
@@ -22,7 +22,7 @@
 "Edit":"data2",
 "ReviewIncident":"data2",
 "BuildTeam":"data2",
-"RootCauseAnalysis":"data2"
+"RootCauseAnalysis":"data2",
 "Investigation":"data2",
 "Approval":"data2",
 "CostAnalysis":"data2",
@@ -37,7 +37,7 @@
 "Edit":"data3",
 "ReviewIncident":"data3",
 "BuildTeam":"data3",
-"RootCauseAnalysis":"data3"
+"RootCauseAnalysis":"data3",
 "Investigation":"data3",
 "Approval":"data3",
 "CostAnalysis":"data3",
@@ -52,7 +52,7 @@
 "Edit":"data4",
 "ReviewIncident":"data4",
 "BuildTeam":"data4",
-"RootCauseAnalysis":"data4"
+"RootCauseAnalysis":"data4",
 "Investigation":"data4",
 "Approval":"data4",
 "CostAnalysis":"data4",
@@ -67,7 +67,7 @@
 "Edit":"data5",
 "ReviewIncident":"data5",
 "BuildTeam":"data5",
-"RootCauseAnalysis":"data5"
+"RootCauseAnalysis":"data5",
 "Investigation":"data5",
 "Approval":"data5",
 "CostAnalysis":"data5",
