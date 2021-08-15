@@ -75,6 +75,30 @@
 				"FitnessDetails": "data5",
 				"LessonsToLearn": "data5"
 			}
-		]
+		],
+		"investigationTeamList":[{
+      "Position": "Position1",
+      "OwnOther": "OwnOther1",
+      "Name": "Name1",
+      "EmployeeCode": "EmployeeCode1"
+    }, {
+      "Position": "Position2",
+      "OwnOther": "OwnOther2",
+      "Name": "Name2",
+      "EmployeeCode": "EmployeeCode2"
+    },
+    {
+      "Position": "Position3",
+      "OwnOther": "OwnOther3",
+      "Name": "Name3",
+      "EmployeeCode": "EmployeeCode3"
+    },
+    {
+      "Position": "Position4",
+      "OwnOther": "OwnOther4",
+      "Name": "Name4",
+      "EmployeeCode": "EmployeeCode4"
+    }
+  ]
 	}
 }
